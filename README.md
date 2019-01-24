@@ -1,4 +1,4 @@
-# Nonlinear-FrankWolfeMethod1
+# Nonlinear-FrankWolfeMethod
 solving a nonlinear problem with frank-wolfe algorithm
 
 FRANK–WOLFE ALGORITHM
