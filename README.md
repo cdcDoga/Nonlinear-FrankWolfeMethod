@@ -20,6 +20,7 @@ Step 2. Step size determination: Set {\displaystyle \gamma \leftarrow {\frac {2}
 Step 3. Update: Let {x} _{k+1} <- {x} _{k}+ \gamma ({s} _{k}-\mathbf {x} _{k}), let k <- k+1 and go to Step 1.
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 GAMS CODE:
